@@ -1,6 +1,6 @@
 package nomina;
 
-
+//
 public class Empleado {
     private String Nombre;
     private String Apellido;
